@@ -1,8 +1,9 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=210&section=header&text=Hi%20there,%20I'm%20Tanishk!%20👋&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=C%2B%2B%20%26%20DSA%20Problem%20Solver%20%E2%80%A2%20Software%20Builder&descSize=19&descAlignY=60&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Hi%20there,%20I'm%20Tanishk!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=twinkling" width="100%" />
 </div>
+
 
 
 
