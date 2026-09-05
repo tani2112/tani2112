@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1 align="center">
-  <font color="#38BDF8">Hi there, I'm Tanishk!</font> 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38px" alt="Waving Hand" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Tanishk!+%F0%9F%91%8B;C%2B%2B+%26+DSA+Enthusiast+%E2%9A%A1;Building+Scalable+Software+%F0%9F%9A%80" alt="Animated Header" />
+</div>
+
 
 
 
