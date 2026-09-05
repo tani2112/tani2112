@@ -1,8 +1,9 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Tanishk!+%F0%9F%91%8B;C%2B%2B+%26+DSA+Enthusiast+%E2%9A%A1;Building+Scalable+Software+%F0%9F%9A%80" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=210&section=header&text=Hi%20there,%20I'm%20Tanishk!%20👋&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Solving%20DSA%20Problems%20in%20C%2B%2B%20%7C%20Full-Stack%20Dev&descSize=19&descAlignY=60&descAlign=50&animation=twinkling" width="100%" />
 </div>
+
 
 
 
