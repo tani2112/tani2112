@@ -17,6 +17,8 @@
 
 <br/>
 
+### 🌐Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk---sharma/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanishk-ks/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishkkumarsharma21@gmail.com)
@@ -76,19 +78,16 @@
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tani2112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tani2112&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
-</div>
-
-<br/>
+### 📊 Coding Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tani2112&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  <!-- LeetCode DSA Stats Card -->
+  <a href="https://leetcode.com/u/tanishk_ks/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/tanishk_ks?theme=tokyonight&font=Fira%20Code" height="175" alt="LeetCode Stats" />
+  </a>
+  
+  <br/><br/>
 
----
-
-<div align="center">
-  ⭐ <i>Feel free to check out my repositories, star projects you like, and connect!</i>
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=tani2112&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
