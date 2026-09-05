@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Tanishk! 👋
+<h1 align="center">
+  <font color="#38BDF8">Hi there, I'm Tanishk!</font> 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38px" alt="Waving Hand" />
+</h1>
+
 ### C++ & DSA Enthusiast • Software Developer • Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Cracking+DSA+%26+Algorithms+in+C%2B%2B+%E2%9A%A1;Building+Scalable+Software+%26+Tools+%F0%9F%9B%A0%EF%B8%8F;Exploring+System+Design+%26+Backend+Dev+%F0%9F%9A%80;Open+to+Collaboration+%26+Opportunities+%F0%9F%A4%9D)](https://git.io/typing-svg)
