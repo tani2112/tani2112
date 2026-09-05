@@ -19,6 +19,7 @@
 
 ### 🌐Socials
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk---sharma/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanishk-ks/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishkkumarsharma21@gmail.com)
@@ -78,16 +79,17 @@
 
 ### 📊 GitHub Activity & Stats
 
-### 📊 Coding Activity & Stats
-
 <div align="center">
   <!-- LeetCode DSA Stats Card -->
-  <a href="https://leetcode.com/u/tanishk_ks/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/tanishk_ks?theme=tokyonight&font=Fira%20Code" height="175" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/tanishk-ks/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/tanishk-ks?theme=tokyonight&font=Fira%20Code" height="175" alt="LeetCode Stats" />
   </a>
-  
+
   <br/><br/>
 
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=tani2112&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+
+
